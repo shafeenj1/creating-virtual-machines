@@ -92,10 +92,11 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 <br />
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="455" height="531" alt="image" src="https://github.com/user-attachments/assets/722364ac-8c60-4087-a4fd-ee119e831c3e"
+/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+^Step 7 Please refer back to my previous screenshot in step 6 and copy the Primary NIC public IP. Now what you want to do is connect, copy and paste your Primary NIC public IP onto your remote desktop on your computer. For Mac users please search “windows app” in the app store and download it. After you download it please press “add pc” in the + sign and paste your Primary NIC public IP. Once you can see it, double click and type in your username and password. For Windows users please search “remote desktop connection” you should already have and follow the similar steps as what i explained for the mac. The screenshot provided above is my Mac.
 </p>
 <br />
 
