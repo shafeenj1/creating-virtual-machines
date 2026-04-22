@@ -63,6 +63,15 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 
 
 
+<img width="806" height="747" alt="image" src="https://github.com/user-attachments/assets/11b70e35-9231-469f-b349-658e57a7a6de"
+/>
+</p>
+<p>
+^Step 4 For size you typically want to aim for “D2s_v3 2 vcpus” because it’s usually the cheapest but it is up to you individually. For the Administrator account please remember your Username and password. If you forget, no worries you can update it again in azure or refresh the page and start over at step 1, it also doesn't hurt to have a separate window to type your username or password so you don’t forget . Then below licensing there is usually a checkbox below that, please check because this will allow you to create the machine and finally press “Review + create.”
+</p>
+<br />
+
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
